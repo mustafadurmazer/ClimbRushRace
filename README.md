@@ -37,3 +37,35 @@ Proje açık kaynak ve ücretsizdir. Dilediğiniz gibi düzenleyebilir, değişt
 Bu README dosyası, Climb Rush Race oyununu tanıtmak ve projeye katkıda bulunmak isteyen geliştiricilere yol göstermek için tasarlanmıştır.
 Projeyi Geliştiren:
 Mustafa DURMAZER
+
+
+--------------------------------------------------------------
+
+Climb Rush Race
+About
+
+Climb Rush Race is a browser-based game where players control a truck and try to survive for as long as possible. The game can be played using keyboard controls on desktop or touch controls on mobile devices. Players navigate the truck using arrow keys (up, down, left, right) on the keyboard or on-screen touch buttons on mobile.
+
+The game features a dynamically generated road, ensuring that each playthrough is unique. The truck's speed and position are continuously updated, providing a smooth and engaging gameplay experience. The game is compatible with both desktop and mobile devices, with responsive controls for each platform.
+
+No installation is required to play; simply open your browser and go to https://climbrushrace.serv00.net/
+ to start playing. The game is developed using HTML5 and JavaScript, with the main game loop implemented in the draw() function to update the game state in real-time.
+
+Media
+
+Gameplay video: https://youtu.be/yMC3JOmmQ4A
+
+Screenshots: https://r.resimlink.com/wnqxF.png
+, https://r.resimlink.com/cjA5S.png
+
+Contributing
+
+You can fork the project, add new features or fix bugs, commit your changes, and submit a pull request to contribute.
+
+License
+
+This project is open-source and free. You are welcome to modify and adapt it as you wish.
+
+Developer
+
+Climb Rush Race is developed by Mustafa DURMAZER.
